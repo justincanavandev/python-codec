@@ -16,7 +16,7 @@ teams = [['Jody', 'Abe'], ['Abhishek', 'Kim'], ['Taylor', 'Jen']]
 for team in teams:
     print('team', team) # prints each individual array ["Jody", "Abe"]
     for name in team:  
-        print("name", name) # prints each individual array item "Jody"
+        print("name", name) # prints each individual array item "Jody", "Abe"
 
 # while loop... executes code with condition evaluates to true
 
